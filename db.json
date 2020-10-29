@@ -1,0 +1,171 @@
+{
+  "staticcontent": {
+    "myaccount": {
+      "authenticated": {
+          "title": "You are now signed in.",
+          "links": [
+            {
+              "text": "Support",
+              "href": "https://www.dell.com/support/home/?app=products",
+              "metrics": "btnname:nav|login|Support",
+              "class": ""
+            },
+            {
+              "text": "Cloud Console",
+              "href": "https://console.delltechnologies.com/",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Partner Portal",
+              "href": "https://www.dellemc.com/partner/en-in/auth/partner-portal.htm",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Dell.com",
+              "href": "https://www.dell.com",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Dell Premier",
+              "href": "https://www.dellemc.com/en-us/premier-solutions/index.htm",
+              "metrics": "",
+              "class": ""
+            }
+          ]
+        ,
+        "signout": {
+          "links": [
+            {
+              "text": "Account Settings",
+              "href": "https://www.dell.com/en-us/myaccount",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Sign out",
+              "href": "https://www.delltechnologies.com/delltechsp/logout",
+              "metrics": "",
+              "class": ""
+            }
+          ]
+        },
+        "additional": {
+          "title": "Additional access options",
+          "links": [
+            {
+              "text": "Find a Partner",
+              "href": "https://www.dellemc.com/partner/en-us/partner/find-a-partner.htm",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Become a Partner",
+              "href": "https://www.dellemc.com/partner/en-us/partner/partner-application.htm",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Register for Dell Premier",
+              "href": "https://www.dell.com/premier/get-started/en-us/",
+              "metrics": "",
+              "class": ""
+            }
+          ]
+        }
+      },
+      "unauthenticated": {
+          "title": "Sign in for access to:",
+          "bulletEntries": [
+            "Support",
+            "Cloud Console",
+            "Partner Portal",
+            "Dell.com",
+            "Dell Premier"
+          ]
+        ,
+        "signin": {
+          "sigininbutton": {
+            "title": "Sign In",
+            "href": "https://www.delltechnologies.com/auth/login_redirect.htm"
+          },
+          "links": [
+            {
+              "text": "Forgot your Password?",
+              "href": "https://www.delltechnologies.com/auth/login_redirect.htm",
+              "metrics": "'btnname':'nav|login|ForgotPassword'",
+              "class": ""
+            },
+            {
+              "text": "Create an account",
+              "href": "https://www.delltechnologies.com/auth/login_redirect.htm",
+              "metrics": "'btnname':'nav|login|CreateAccount'",
+              "class": ""
+            }
+          ]
+        },
+        "additional": {
+          "title": "Additional access options",
+          "links": [
+            {
+              "text": "Find a Partner",
+              "href": "https://www.dellemc.com/partner/en-us/partner/find-a-partner.htm",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Become a Partner",
+              "href": "https://www.dellemc.com/partner/en-us/partner/partner-application.htm",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Register for Dell Premier",
+              "href": "https://www.dell.com/premier/get-started/en-us/",
+              "metrics": "",
+              "class": ""
+            },
+            {
+              "text": "Employee and Vendor Access",
+              "href": "https://www.dell.com/premier/get-started/en-us/",
+              "metrics": "",
+              "class": ""
+            }
+          ]
+        }
+      }
+    },
+    "contactus": {
+      "title": "Contact",
+     "class":"",
+      "links": [
+        {
+          "text": "Call 001-866-438-3622",
+          "href": "tel:001-866-438-3622",
+          "metrics": "btnname:nav|contact|phone"
+        },
+        {
+          "text": "Chat",
+          "href": "#",
+          "metrics": "LiveChat:ChatTypeReactiveNavBar"
+        },
+        {
+          "text": "Email Sales",
+          "href": "javascript:void(0)",
+          "metrics": "contactsales:ContactSalesNavBar"
+        },
+        {
+          "text": "More Options",
+          "href": "https://www.delltechnologies.com/en-in/contactus.htm",
+          "metrics": "btnname:nav|contact|more"
+        }
+      ]
+    },
+    "search": {
+      "searchbuttonlabel": "Search",
+      "searchtextboxplaceholder": "Search"
+    }
+  }
+}
