@@ -1,5 +1,5 @@
 {
-  "myaccount": {
+  "myaccount":{
     "title":"Sign In",
     "authenticated": {
       "flyoutTitle": "You are now signed in.",
