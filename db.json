@@ -1,4 +1,5 @@
 {
+"content":{
   "myaccount": {
     "title": "Sign in",
     "metrics":"",
@@ -169,4 +170,5 @@
     "searchbuttonlabel": "Search",
     "searchtextboxplaceholder": "Search"
   }
+}
 }
