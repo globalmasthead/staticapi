@@ -1,6 +1,8 @@
 {
-  "myaccount":{
-    "title":"Sign In",
+  "myaccount": {
+    "title": "Sign in",
+    "metrics":"",
+    "class":"",
     "authenticated": {
       "flyoutTitle": "You are now signed in.",
       "links": [
@@ -136,8 +138,10 @@
     }
   },
   "contactus": {
-    "title": "Contact",
-    "class": "",
+    "title": "Contact Us",
+"metrics":"",
+"class":"",
+    
     "links": [
       {
         "text": "Call 001-866-438-3622",
